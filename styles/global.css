@@ -11,6 +11,12 @@
   --stroke-color: #1e293b;
   --text-color-primary: #f1f5f9;
   --text-color-secondary: #cbd5e1;
+
+  --font-family: 'Archivo', sans-serif;
+  --h1: ;
+  --h2: ;
+  --h3: ;
+  --text-span: ;
 }
 
 body {
